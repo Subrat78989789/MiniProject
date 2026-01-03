@@ -1,0 +1,15 @@
+Subh | 789563 | 5000.0 | CurrentAccount
+Rahul | 45693 | 8956.0 | CurrentAccount
+fakl | 7412563 | 6393.0 | CurrentAccount
+rahul | 4562456 | 8000.0 | SavingsAccount
+Roy | 45164422 | 9000.0 | CurrentAccount
+Subrat | 123 | 5000.0 | SavingsAccount
+subrat | 15662 | 5000.0
+subrat | 15662 | 6000.0
+subrat | 15662 | 5000.0
+Subrat | 7856225 | 5000.0
+ram | 789 | 8900.0 | SavingsAccount
+ram | 789 | 9000.0 | SavingsAccount
+ram | 789 | 8900.0 | SavingsAccount
+rajesh | 1232 | 4500.0 | CurrentAccount
+Rajesh | 74123 | 8000.0 | SavingsAccount
