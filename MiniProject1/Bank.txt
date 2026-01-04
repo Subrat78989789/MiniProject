@@ -13,3 +13,7 @@ ram | 789 | 9000.0 | SavingsAccount
 ram | 789 | 8900.0 | SavingsAccount
 rajesh | 1232 | 4500.0 | CurrentAccount
 Rajesh | 74123 | 8000.0 | SavingsAccount
+Prashant | 78953265 | 10000.0 | SavingsAccount
+Prashant | 123698546 | 12000.0 | CurrentAccount
+Prashant | 123698546 | 13000.0 | CurrentAccount
+Prashant | 123698546 | 12500.0 | CurrentAccount
